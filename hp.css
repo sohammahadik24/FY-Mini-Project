@@ -150,7 +150,7 @@ form{
 }
 #dis{color: antiquewhite;
     position: absolute;
-    top:90%;
+    top:100%;
     left:40%;
     transition: all 2s linear ;
 }
